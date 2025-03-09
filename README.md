@@ -10,11 +10,11 @@
 
 <p align="left"> <a href="https://twitter.com/emmaandata" target="blank"><img src="https://img.shields.io/twitter/follow/emmaandata?logo=twitter&style=for-the-badge" alt="emmaandata" /></a> </p>
 
-- 🔭 I’m currently working on **implementing streamlit in machine learning projects**
+- 🔭 I’m currently working on **Implementing Typesript/Javascript**
 
-- 🌱 I’m currently learning **big data technologies**
+- 🌱 I’m currently learning **backend Development with EXPRESS JS**
 
-- 💬 Ask me about **python**
+- 💬 Ask me about **backend development**
 
 - 📫 How to reach me **emmaaskari64@gmail.com**
 
